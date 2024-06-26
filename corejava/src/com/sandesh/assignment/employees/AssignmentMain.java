@@ -4,6 +4,7 @@ import com.sandesh.assignment.employees.Developer;
 import com.sandesh.assignment.employees.Manager;
 import com.sandesh.assignment.utilities.EmployeeUtilities;
 
+ 
 public class AssignmentMain {
 
 	public static void main(String[] args) {
@@ -21,6 +22,7 @@ public class AssignmentMain {
         developer.setProgrammingLanguage("Java");
 
         EmployeeUtilities.printEmployeeDetails(manager);
+        System.out.print("\n");
         EmployeeUtilities.printEmployeeDetails(developer);
 
         EmployeeUtilities.giveRaise(manager, 10);
@@ -28,6 +30,7 @@ public class AssignmentMain {
 
         System.out.println("\nAfter raise:");
         EmployeeUtilities.printEmployeeDetails(manager);
+        System.out.print("\n");
         EmployeeUtilities.printEmployeeDetails(developer);
     }
 

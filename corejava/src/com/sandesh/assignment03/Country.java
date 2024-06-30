@@ -13,6 +13,7 @@ public class Country extends Continent {
 		this.hills = hills;
 		this.memorials = memorials;
 		
+		
 	}
 	public String getLakes() {
 		return lakes;

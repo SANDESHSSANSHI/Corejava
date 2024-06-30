@@ -1,6 +1,7 @@
 package com.sandesh.assignment03;
 
-public class Continent {
+public class Continent 
+{
 	private String rivers;
 	private String mountains;
 	private String monuments;

@@ -1,8 +1,8 @@
-package com.sandesh.assignment.employees; 
+package com.sandesh.assignment01.employees; 
 
-import com.sandesh.assignment.employees.Developer;
-import com.sandesh.assignment.employees.Manager;
-import com.sandesh.assignment.utilities.EmployeeUtilities;
+import com.sandesh.assignment01.employees.Developer;
+import com.sandesh.assignment01.employees.Manager;
+import com.sandesh.assignment01.utilities.EmployeeUtilities;
 
  
 public class AssignmentMain {

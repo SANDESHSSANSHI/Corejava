@@ -1,4 +1,4 @@
-package com.sandesh.assignment.employees;
+package com.sandesh.assignment01.employees;
 
 public class Employee {
 

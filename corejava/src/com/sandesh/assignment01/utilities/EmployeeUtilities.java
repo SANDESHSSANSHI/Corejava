@@ -1,6 +1,6 @@
-package com.sandesh.assignment.utilities;
+package com.sandesh.assignment01.utilities;
 
-import com.sandesh.assignment.employees.Employee;
+import com.sandesh.assignment01.employees.Employee;
 
 public class EmployeeUtilities 
 {

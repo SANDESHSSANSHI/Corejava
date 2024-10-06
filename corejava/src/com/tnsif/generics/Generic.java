@@ -9,7 +9,7 @@ public class Generic {
 
         ArrayList<String> list=new ArrayList<String>();
         list.add("JAVA");
-        list.add(123);
+        list.add(123, null);
 
         for (Object object : list) {
         	String str=(String)object;
